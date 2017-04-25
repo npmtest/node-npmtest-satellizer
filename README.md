@@ -1,6 +1,6 @@
 # npmtest-satellizer
 
-#### test coverage for  [satellizer (v0.15.5)](https://github.com/sahat/satellizer)  [![npm package](https://img.shields.io/npm/v/npmtest-satellizer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-satellizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-satellizer.svg)](https://travis-ci.org/npmtest/node-npmtest-satellizer)
+#### basic test coverage for  [satellizer (v0.15.5)](https://github.com/sahat/satellizer)  [![npm package](https://img.shields.io/npm/v/npmtest-satellizer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-satellizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-satellizer.svg)](https://travis-ci.org/npmtest/node-npmtest-satellizer)
 
 #### Token-based AngularJS Authentication
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-satellizer/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-satellizer/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-satellizer/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-satellizer/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-satellizer/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-satellizer/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-satellizer/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-satellizer/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-satellizer/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-satellizer/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-satellizer/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-satellizer/build/coverage.html/index.html)
 
@@ -135,7 +135,8 @@
         "social",
         "twitch"
     ],
-    "version": "0.15.5"
+    "version": "0.15.5",
+    "bin": {}
 }
 ```
 
